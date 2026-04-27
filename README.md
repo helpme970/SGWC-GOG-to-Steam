@@ -3,12 +3,14 @@ Unlock the 2 missing DLCs only that are (officially) only available to the Steam
 
 This will add the shroud and the CYRILmp4 Weapon Skin DLC to the GOG version.
 
+> Fully Linux compatible
+
 ## Features
 - shroud DLC and CYRILmp4 Weapon Skin
 - Updated translations from [here](https://community.pcgamingwiki.com/files/file/3856-sniper-ghost-warrior-contracts-2-language-packs/)
 
 ## Install
-1. Download it from [here]()
+1. Download it from [here](https://github.com/helpme970/SGWC-GOG-to-Steam/releases/download/1.0/SGWC_GOG_DLCs.zip)
 2. Extract it to `C:\GOG Games\Sniper Ghost Warrior Contracts 2\` or wherever you installed it
 3. Override all files
 4. Have fun!!!
