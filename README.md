@@ -3,7 +3,7 @@ Unlock the 2 missing DLCs only that are (officially) only available to the Steam
 
 This will add the shroud and the CYRILmp4 Weapon Skin DLC to the GOG version.
 
-> Fully Linux compatible
+> 🐧 Fully Linux compatible
 
 ## Install
 1. Download it from [here](https://github.com/helpme970/SGWC-GOG-to-Steam/releases/download/1.0/SGWC_GOG_DLCs.zip)
