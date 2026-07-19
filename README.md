@@ -1,4 +1,4 @@
-# SGWC-GOG-to-Steam
+# Sniper Ghost Warrior Contracts 2 DLC unlock (GOG)
 Unlock the 2 missing DLCs only that are (officially) only available to the Steam version also on the GOG version
 
 This will add the shroud and the CYRILmp4 Weapon Skin DLC to the GOG version.
