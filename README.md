@@ -8,7 +8,7 @@ This will add the shroud and the CYRILmp4 Weapon Skin DLC to the GOG version.
 ## Install
 1. Download it from [here](https://github.com/helpme970/SGWC-GOG-to-Steam/releases/download/1.0/SGWC_GOG_DLCs.zip)
 2. Extract it to `C:\GOG Games\Sniper Ghost Warrior Contracts 2\` or wherever you installed it
-3. Override all files
+3. Override all files if prompted
 4. (Optional) get the latest translations from [here](https://community.pcgamingwiki.com/files/file/3856-sniper-ghost-warrior-contracts-2-language-packs/)
 5. Have fun!!!
 
