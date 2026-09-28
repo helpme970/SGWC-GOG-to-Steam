@@ -1,7 +1,7 @@
 # Sniper Ghost Warrior Contracts 2 DLC unlock (GOG)
-Unlock the 2 missing DLCs only that are (officially) only available to the Steam version also on the GOG version
+Unlock the 2 missing DLCs, that are (officially) only available to the Steam version, also on the GOG version
 
-This will add the shroud and the CYRILmp4 Weapon Skin DLC to the GOG version.
+This will add the [shroud](https://store.steampowered.com/app/1587622/Sniper_Ghost_Warrior_Contracts_2__shroud_DLC/) and the [CYRILmp4 Weapon Skin DLC](https://store.steampowered.com/app/1587623/Sniper_Ghost_Warrior_Contracts_2__CYRILmp4_Weapon_Skin/) to the GOG version.
 
 > 🐧 Fully Linux compatible
 
@@ -13,11 +13,11 @@ This will add the shroud and the CYRILmp4 Weapon Skin DLC to the GOG version.
 5. Have fun!!!
 
 ## How this works
-By replacing the Galaxy64.dll with an empty file the game will think it is the Steam version on which you can get both DLCs. To get the Steam version working we need to use a crack ([gbe_fork](https://github.com/Detanup01/gbe_fork)).
+By replacing the Galaxy64.dll with an empty file the game will think it is the Steam version on which you can get all DLCs. To get the Steam version working we need to use a crack ([gbe_fork](https://github.com/Detanup01/gbe_fork)).
 
 ## Legality
 I don't know if this is legal because we bypass a DRM that's not supposed to be there.
-If needed will take this down for legal reasons.
+If needed I will take this down for legal reasons.
 
 ## Credits
 - Thanks to Detanup01 for his [gbe_fork](https://github.com/Detanup01/gbe_fork) and thanks to Goldberg for their original version
