@@ -5,6 +5,9 @@ This will add the [shroud](https://store.steampowered.com/app/1587622/Sniper_Gho
 
 > 🐧 Fully Linux compatible
 
+## Why
+As CI Games wont update SGWC2 anymore, nor brings over the existing DLCs to GOG, I decided to do this myself. 
+
 ## Install
 1. Download it from [here](https://github.com/helpme970/SGWC-GOG-to-Steam/releases/download/1.0/SGWC_GOG_DLCs.zip)
 2. Extract it to `C:\GOG Games\Sniper Ghost Warrior Contracts 2\` or wherever you installed it
